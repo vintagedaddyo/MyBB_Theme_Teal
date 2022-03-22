@@ -1,11 +1,14 @@
 # MyBB_Theme_Teal
 
-Teal v1.1
+Teal v1.3
 » About:
 
-This is a simple dark theme for MyBB enthusiasts styled similar to the ACP Style of the same name.
+This is a simple dark theme for MyBB enthusiasts styled similar to the ACP Style of the same name found here: https://github.com/vintagedaddyo/MyBB_ACP_Style_Teal .
 
-Teal v1.1
+Note: Current Font Awesome ver used in this theme: Font Awesome 4.7.0
+
+
+Teal v1.3
 » Installation:
 
 1.) After downloading the Theme unpack it (with 7-Zip for example)
@@ -14,16 +17,17 @@ Teal v1.1
 4.) Search for the XML File titled "Teal-theme.xml" in the theme folder found on your computer and click the Button "Import Theme" this will upload the file from your computer to your forum.
 5.) Now have fun with your forum!
 
-Teal v1.1
+Teal v1.3
 » License:
 
 You may not remove or change the MyBB copyright nor the Designed by: "Vintagedaddyo" statements in the footer of this theme's templates. You may use and modify this theme to your personal likings, but redistributing a modified version for download is prohibited, unless you have explicit written permission from "Vintagedaddyo", though you are allowed to redistribute a copy that has not been modified.
 
-
-Teal v1.1
+Teal v1.3
 » Changelog:
 
 History:
+
+03/19/2022 — Theme updated for 1.8.30
 09/11/2018 — Theme updated for 1.8.19
 08/30/2018 — Theme updated for 1.8.18
 04/21/2016 — Initial Theme Creation
